@@ -1,4 +1,4 @@
-my first plugin 
+
 <?php
 
 use pocketmine\plugin\PluginBase;
