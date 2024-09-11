@@ -1,2 +1,1 @@
-# A-plugin-like-item-adder
-A plugin like item adder
+my first plugin 
